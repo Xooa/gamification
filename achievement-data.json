@@ -1,0 +1,32 @@
+// 20210430141148
+// https://s3-eu-west-1.amazonaws.com/static.competitionlabs.com/gamification-ux-package/examples/data/achievements-data-sample.json
+
+{
+  "data": {
+    "name": "NFTer Badge",
+    "scheduling": {
+      "scheduleType": "Repeatedly",
+      "scheduleOccurrencesLimit": 1,
+      "every": [
+        
+      ],
+      "startDate": "2019-02-13T16:50:00.000+0000",
+      "onlyAggregateOnActiveDays": false
+    },
+    "description": "<p>Awarded on first NFT purchase</p>",
+    "icon": "daeC22EBrGt8uv3Bd5lJ",
+    "deprecated": false,
+    "achievementLiveStatus": "Live",
+    "initialState": 0,
+    "id": "1",
+    "category": [
+      
+    ],
+    "metadata": [
+      {
+        "key": "webAsset",
+        "value": "/assets/animations/Cowboy-960x540-v2.gif"
+      }
+    ]
+  }
+}

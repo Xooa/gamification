@@ -1,0 +1,93 @@
+// 20210430141124
+// https://s3-eu-west-1.amazonaws.com/static.competitionlabs.com/gamification-ux-package/examples/data/leaderboard-data.json
+
+{
+  "meta": {
+    "time": "2019-08-07T19:59:48.324Z",
+    "totalRecordsFound": 10,
+    "skip": 0,
+    "limit": 10
+  },
+  "data": [
+    {
+      "username": "Polkenl",
+      "rank": 1,
+      "nftsBought": 55,
+      "change": 1,
+      "publicKey": "Pt8W9WoBeBiZdpVd5-Pc",
+      "memberRefId": "Polkenl.11"
+    },
+    {
+      "username": "simonsays26",
+      "rank": 2,
+      "nftsBought": 47,
+      "change": -1,
+      "publicKey": "akRQ3mQBVrSMXJcLOZvb",
+      "memberRefId": "simonsays26.11"
+    },
+    {
+      "username": "QKQBRY2MVRGGW6D8BJJQV9TB4DQXRH9T",
+      "rank": 3,
+      "nftsBought": 41,
+      "change": 0,
+      "publicKey": "Hh4y9msBFCsv-HX-QXLf",
+      "memberRefId": "QKQBRY2MVRGGW6D8BJJQV9TB4DQXRH9T.11"
+    },
+    {
+      "username": "mjk1974",
+      "rank": 4,
+      "nftsBought": 26,
+      "change": 0,
+      "publicKey": "ct8Z9WoBeBiZdpVdIONr",
+      "memberRefId": "mjk1974.11"
+    },
+    {
+      "username": "Jon Doe",
+      "rank": 5,
+      "nftsBought": 18,
+      "change": 1,
+      "publicKey": "123456",
+      "memberRefId": "jon-doe-Asd3-_J_CgpY-bw2S2Sy"
+    },
+    {
+      "username": "missmorley",
+      "rank": 6,
+      "change": -1,
+      "nftsBought": 18,
+      "publicKey": "eQvu5moBschmQn_4qX4M",
+      "memberRefId": "missmorley.11"
+    },
+    {
+      "username": "jim20101973",
+      "rank": 7,
+      "nftsBought": 15,
+      "change": 0,
+      "publicKey": "3zxQSmoBJHz5EUYDMTDF",
+      "memberRefId": "jim20101973.11"
+    },
+    {
+      "username": "Nikibedford73",
+      "rank": 8,
+      "nftsBought": 15,
+      "change": 0,
+      "publicKey": "LP844msBDWFQh7YlCdXD",
+      "memberRefId": "Nikibedford73.11"
+    },
+    {
+      "username": "kaefer",
+      "rank": 9,
+      "nftsBought": 14,
+      "change": 0,
+      "publicKey": "BUxY-GQB-4IjwSQGw0af",
+      "memberRefId": "kaefer.11"
+    },
+    {
+      "username": "julia85",
+      "rank": 10,
+      "nftsBought": 13,
+      "change": 0,
+      "publicKey": "MwULL2sB2Ld8JenRcy07",
+      "memberRefId": "julia85.11"
+    }
+  ]
+}

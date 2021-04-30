@@ -1,0 +1,139 @@
+// 20210430141136
+// https://s3-eu-west-1.amazonaws.com/static.competitionlabs.com/gamification-ux-package/examples/data/achievements-list-data-sample.json
+
+{
+  "meta": {
+    "time": "2020-04-21T13:54:15.399Z",
+    "totalRecordsFound": 5,
+    "skip": 0,
+    "limit": 20
+  },
+  "data": [
+    {
+      "name": "NFTer Badge",
+      "scheduling": {
+        "scheduleType": "Repeatedly",
+        "scheduleOccurrencesLimit": 1,
+        "every": [
+          
+        ],
+        "startDate": "2019-02-13T16:50:00.000+0000",
+        "onlyAggregateOnActiveDays": false
+      },
+      "description": "<p>Awarded on first NFT purchase</p>",
+      "icon": "daeC22EBrGt8uv3Bd5lJ",
+      "deprecated": false,
+      "achievementLiveStatus": "Live",
+      "initialState": 0,
+      "id": "1",
+      "category": [
+        
+      ]
+    },
+    {
+      "name": "Silver minter",
+      "scheduling": {
+        "scheduleType": "Once",
+        "scheduleOccurrencesLimit": 1,
+        "every": [
+          
+        ],
+        "startDate": "2020-01-24T08:48:00.000+0000",
+        "onlyAggregateOnActiveDays": false
+      },
+      "description": "<p>First NFT to that has been traded 5 times or more</p>",
+      "icon": "bKeC22EBrGt8uv3BUZn4",
+      "deprecated": false,
+      "achievementLiveStatus": "Live",
+      "initialState": 0,
+      "id": "2",
+      "category": [
+        "Minter Badge"
+      ]
+    },
+    {
+      "name": "NFT Collector badge",
+      "scheduling": {
+        "scheduleType": "Repeatedly",
+        "scheduleOccurrencesLimit": 1,
+        "every": [
+          
+        ],
+        "startDate": "2019-01-11T10:45:00.000+0000",
+        "onlyAggregateOnActiveDays": false
+      },
+      "description": "reached 10 NFT in collections",
+      "icon": "daeC22EBrGt8uv3Bd5lJ",
+      "deprecated": false,
+      "achievementLiveStatus": "Live",
+      "initialState": 0,
+      "id": "3",
+      "category": [
+        "Collector Badge"
+      ]
+    },
+    {
+      "name": "Advanced Collector badge",
+      "scheduling": {
+        "scheduleType": "Once",
+        "scheduleOccurrencesLimit": 1,
+        "every": [
+          
+        ],
+        "startDate": "2019-09-03T13:59:00.000+0000",
+        "onlyAggregateOnActiveDays": false
+      },
+      "description": "<p>Reached 100 NFT in collections</p>",
+      "icon": "daeC22EBrGt8uv3Bd5lJ",
+      "deprecated": false,
+      "achievementLiveStatus": "Live",
+      "initialState": 0,
+      "id": "4",
+      "category": [
+        "Collector Badge"
+      ]
+    },
+    {
+      "name": "Trader badge",
+      "scheduling": {
+        "scheduleType": "Once",
+        "scheduleOccurrencesLimit": 1,
+        "every": [
+          
+        ],
+        "startDate": "2019-09-18T07:53:00.000+0000",
+        "onlyAggregateOnActiveDays": false
+      },
+      "description": "Bought and successfully resold at-least 1 NFT",
+      "icon": "daeC22EBrGt8uv3Bd5lJ",
+      "deprecated": false,
+      "achievementLiveStatus": "Live",
+      "initialState": 0,
+      "id": "5",
+      "category": [
+        
+      ]
+    },
+    {
+      "name": "Gold mine badge",
+      "scheduling": {
+        "scheduleType": "Once",
+        "scheduleOccurrencesLimit": 1,
+        "every": [
+          
+        ],
+        "startDate": "2019-09-18T07:53:00.000+0000",
+        "onlyAggregateOnActiveDays": false
+      },
+      "description": "Awarded to minter with NFTs trading 10 times their minted prices",
+      "icon": "daeC22EBrGt8uv3Bd5lJ",
+      "deprecated": false,
+      "achievementLiveStatus": "Live",
+      "initialState": 0,
+      "id": "6",
+      "category": [
+        
+      ]
+    }
+  ]
+}
